@@ -10,7 +10,7 @@ GitHub Actions e venho explorando o mundo de padrões de projeto.<br>
 - APIs escaláveis e serviços em nuvem<br>
 <b>Sempre aberto a novos desafios e colaborações!</b> <br>
 
-## 🌐 Socials:
+## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/miqueiasbto_/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/miqueias-bento-o32/) 
 <br>
@@ -19,7 +19,7 @@ GitHub Actions e venho explorando o mundo de padrões de projeto.<br>
 ![](https://github-readme-stats.vercel.app/api?username=MiqueiasBento&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 <br>
 
-## 💻 Tech Stack:
+## 💻 Stacks:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
