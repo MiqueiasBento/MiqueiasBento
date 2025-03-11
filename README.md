@@ -1,6 +1,6 @@
 <h1>Olá, eu sou <a  href="https://www.linkedin.com/in/miqueias-bento-o32/">Miqueias Bento</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 Desenvolvedor Backend em evolução | Focado em boas práticas e escalabilidade<br>
-Olá, atualmente estou cursando Engenharia de Software na Universidade Federal do Ceará Desenvolvimento Backend, com foco na linguagem Java. Tenho experiência com Docker,
+Olá, atualmente estou cursando <b>Engenharia de Software</b> na Universidade Federal do Ceará, e venho estudando <b>desenvolvimento backend</b> com foco na linguagem Java com o uso de boas práticas de desenvolvimento. Tenho experiência com Docker,
 GitHub Actions e venho explorando o mundo de padrões de projeto.<br>
 <br>
 💡 Interesses:<br>
