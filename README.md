@@ -44,8 +44,10 @@ Tenho explorado também conceitos de **DevOps**, **microserviços** e **automaç
 ---
 
 ## 📊 Estatísticas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiqueiasBento&layout=donut&theme=radical)
-![](https://github-readme-stats.vercel.app/api?username=MiqueiasBento&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiqueiasBento&layout=donut&theme=radical" alt="stats" /></a> | <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MiqueiasBento&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="stats" /></a></a> |
+| ------------- | ------------- |
 
 ---
 
