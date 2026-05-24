@@ -34,13 +34,13 @@ Tenho explorado também conceitos de **DevOps**, **microserviços** e **automaç
 
 ## Estatísticas
 <div align="center">
-  <a href="https://github.com/evyhdev">
+  <a href="https://github.com/MiqueiasBento">
     <img src="https://github-readme-stats-fast.vercel.app/api?username=MiqueiasBento&show_icons=true&theme=gruvbox&hide_border=true" height="150" alt="Estatísticas do GitHub" />
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=MiqueiasBento&layout=compact&langs_count=5&theme=gruvbox&hide_border=true" height="150" alt="Linguagens mais usadas" />
   </a>
   <br><br>
 
-  <a href="https://github.com/evyhdev">
+  <a href="https://github.com/MiqueiasBento">
     <img src="https://streak-stats.demolab.com?user=MiqueiasBento&theme=gruvbox&hide_border=true" height="150" alt="GitHub Streak" />
   </a>
 </div>
