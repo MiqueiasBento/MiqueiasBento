@@ -16,12 +16,12 @@ Tenho explorado também conceitos de **DevOps**, **microserviços** e **automaç
 
 <div align="center">
 
-  ### Linguagens e Frameworks
-  <img src="https://skillicons.dev/icons?i=java,spring,typescript,nestjs,nodejs,javascript,express,react,tailwind,vite,python,fastapi,flask&theme=dark"/>
+  ### Frameworks
+  <img src="https://skillicons.dev/icons?i=java,spring,nestjs,nodejs,express,react,tailwind,fastapi,flask&theme=dark"/>
   <br>
     
   ### Bancos de Dados e Armazenamento
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,supabase,hibernate,prisma&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,supabase,hibernate,prisma,sql&theme=dark"/>
   <br>
     
   ### DevOps & Nuvem
