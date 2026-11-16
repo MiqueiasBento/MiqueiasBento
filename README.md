@@ -1,14 +1,19 @@
 <h1>Olá, eu sou <a  href="https://www.linkedin.com/in/miqueias-bento-o32/">Miqueias Bento</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-Desenvolvedor Backend em formação | Engenharia de Software - UFC <br>
-Atualmente atuo como **Desenvolvedor Backend na AvanteTech Jr.**, com foco em **Java e Spring Boot**, aplicando boas práticas de projeto, integração contínua com **GitHub Actions** e conteinerização com **Docker**.  
-Tenho explorado também conceitos de **DevOps**, **microserviços** e **automação de pipelines**, além de estudos introdutórios em **React.js** e **Nest.js**.
+Desenvolvedor full stack e graduando em Engenharia de Software na UFC. Construo APIs e sistemas com foco em arquitetura, escalabilidade e manutenibilidade.
 
-**Interesses**
-- Desenvolvimento backend e APIs REST
-- Boas práticas de arquitetura e padrões de projeto
-- Práticas de DevOps (Docker, CI/CD, Kubernetes)
-- Integração de sistemas e microsserviços
+## O que faço hoje
+
+- **FIOCRUZ:** bolsista de PIBITI, atuando como engenheiro de software e desenvolvendo um sistema de saúde digital. Atuação desde requisitos, modelagens, gerenciamento de atividades e desenvolvimento com foco backend.
+- **AvanteTech Jr.:** coordenador de projetos e desenvolvedor, com experiência em quatro diferentes projetos de clientes externos e gestão equipe, atuação do levantamento de requisitos à entrega técnica.
+
+## Competências
+
+- **Backend - domínio principal**: Java e Spring Boot, Express.js e TypeScript, Python e FastAPI.  
+- **Arquitetura:** Microsserviços, DDD, Event-Driven Architecture, C4 Model, Princípios SOLID, Clean Architecture.  
+- **Cloud e Infraestrutura:** AWS, Docker e conteinerização, Git e CI/CD.  
+- **Banco de dados:** SQL e NoSQL, PostgreSQL, MongoDB e Redis.  
+- **Competências Profissionais:** liderança técnica, comunicação com stakeholders, pensamento arquitetural e metodologias ágeis.  
 
 ---
 
