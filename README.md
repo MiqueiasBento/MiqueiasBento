@@ -2,12 +2,12 @@
 
 Desenvolvedor full stack e graduando em Engenharia de Software na UFC. Construção de APIs e sistemas com foco em arquitetura, escalabilidade e manutenibilidade.
 
-## O que faço hoje
+**O que faço hoje**
 
 - **FIOCRUZ:** bolsista de PIBITI, atuando como engenheiro de software e desenvolvendo um sistema de saúde digital. Atuação desde requisitos, modelagens, gerenciamento de atividades e desenvolvimento com foco backend.
 - **AvanteTech Jr.:** coordenador de projetos e desenvolvedor, com experiência em quatro diferentes projetos de clientes externos e gestão equipe, atuação do levantamento de requisitos à entrega técnica.
 
-## Habilidades
+**Habilidades**
 
 - **Backend**: Java e Spring Boot, Express.js e TypeScript, Python e FastAPI.  
 - **Arquitetura:** Microsserviços, DDD, Event-Driven Architecture, C4 Model, Princípios SOLID, Clean Architecture.  
@@ -17,19 +17,19 @@ Desenvolvedor full stack e graduando em Engenharia de Software na UFC. Construç
 
 ---
 
-## Tecnologias e Ferramentas
+**Ferramentas de trabalho**
 
 <div align="center">
 
-  ### Frameworks
+  **Frameworks**  
   <img src="https://skillicons.dev/icons?i=java,spring,nestjs,nodejs,express,react,tailwind,fastapi,flask&theme=dark"/>
   <br>
     
-  ### Bancos de Dados e Armazenamento
+  **Bancos de Dados e Armazenamento**  
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,supabase,hibernate,prisma,sql&theme=dark"/>
   <br>
     
-  ### DevOps & Nuvem
+  **DevOps & Nuvem**  
   <img src="https://skillicons.dev/icons?i=git,github,aws,docker,githubactions,kubernetes&theme=dark"/>
   <br>
   
